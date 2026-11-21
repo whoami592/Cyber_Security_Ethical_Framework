@@ -149,7 +149,7 @@ Administrative/root privileges (for certain modules)
 
 1. Clone the Repository
 bash
-git clone https://github.com/sabazalikhan/cyber-security-framework.git
+git clone https://github.com/whoami592/Cyber_Security_Ethical_Framework.git
 
 cd cyber-security-framework
 
